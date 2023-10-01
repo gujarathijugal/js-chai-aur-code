@@ -25,5 +25,5 @@ console.log(typeof c)  //undefined
 console.log(Number(e))  //zero
 
 //parts which cant be converted are not a number or NaN
-
+// === changes data type as well as value
 // null is zero in number and undefined is not anumber similarly string in number is NAN
